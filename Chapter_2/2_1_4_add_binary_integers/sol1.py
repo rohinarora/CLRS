@@ -2,6 +2,9 @@
 Same as leetcode-
 https://leetcode.com/problems/add-binary
 
+Runtime: 40 ms, faster than 72.14% of Python3 online submissions for Add Binary.
+Memory Usage: 13.7 MB, less than 5.41% of Python3 online submissions for Add Binary.
+
 '''
 
 class Solution:

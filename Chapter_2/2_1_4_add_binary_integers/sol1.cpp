@@ -1,4 +1,7 @@
-// Code to be added to this. Algo same as sol1.py. Refer
+/* Algo same as sol1.py.
+Runtime: 4 ms, faster than 80.27% of C++ online submissions for Add Binary.
+Memory Usage: 9.4 MB, less than 30.91% of C++ online submissions for Add Binary.
+*/
 #include "string"
 using namespace std;
 class Solution
